@@ -1,4 +1,4 @@
-# node-test-coverage-summary-demo
+# node-test-coverage-summa ry-demo
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that A Probot app
 
